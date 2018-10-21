@@ -1,3 +1,8 @@
 .big-banner {
 	background-image: url('bck.jpg') ;
 }
+#jb1 {
+    background-image: url('https://article.images.consumerreports.org/w_767,ar_32:11,c_lfill/prod/content/dam/cro/news_articles/Electronics/CR-BG-Computer-HERO-08-16') ;
+    background-size: 100%;
+    height: auto;
+}
