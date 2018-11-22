@@ -10,6 +10,8 @@ app.use(function(req, res, next) {
     next();
   });
 
+app.use(cors());
+
 // Serve only the static files form the dist directory
 app.use(express.static(__dirname + '/'));
 
